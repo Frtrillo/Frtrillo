@@ -38,7 +38,7 @@
 
 📫 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/frtrillo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=ffffff)](https://www.linkedin.com/in/frtrillo)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/Frtrillo)
 
 Thanks for visiting my profile! 😄
