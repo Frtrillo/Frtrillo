@@ -36,6 +36,7 @@
 ![SWR](https://img.shields.io/badge/-SWR-000?&logo=swr)
 ![TanStack](https://img.shields.io/badge/-TanStack-000?&logo=reactquery)
 ![NG Prime](https://img.shields.io/badge/-NG%20Prime-000?&logo=primefaces)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=electron)
 
 ### **IoT & Embedded**
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
@@ -47,6 +48,10 @@
 ![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=android)
 ![iOS](https://img.shields.io/badge/-iOS-000?&logo=apple)
+
+### **AI & Data**
+![LLM](https://img.shields.io/badge/-LLMs-000?&logo=openai)
+![RAG](https://img.shields.io/badge/-RAG-000?&logo=huggingface)
 
 
 ✨ **Projects:**
