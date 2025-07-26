@@ -9,42 +9,44 @@
 ### 🔧 Technologies & Tools:
 
 ### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-000000?logo=OpenJDK)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=csharp)
+![Java](https://img.shields.io/badge/Java-000?logo=openjdk)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
 
 ### **Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-![Bun](https://img.shields.io/badge/-Bun-000?&logo=Bun)
-![.NET Core](https://img.shields.io/badge/-.NET%20Core-000?&logo=dot-net)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=Spring%20Boot)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000?&logo=dotnet)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000?&logo=quarkus)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=nestjs)
 ![ElysiaJS](https://img.shields.io/badge/-ElysiaJS-000?&logo=elysia)
 
 ### **Frontend**
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![RxJS](https://img.shields.io/badge/-RxJS-000?&logo=RxJS)
-![SWR](https://img.shields.io/badge/-SWR-000?&logo=SWR)
-![TanStack](https://img.shields.io/badge/-TanStack-000?&logo=TanStack)
-![NG Prime](https://img.shields.io/badge/-NG%20Prime-000?&logo=NG%20Prime)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000?&logo=radixui)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=angular)
+![RxJS](https://img.shields.io/badge/-RxJS-000?&logo=reactivex)
+![SWR](https://img.shields.io/badge/-SWR-000?&logo=swr)
+![TanStack](https://img.shields.io/badge/-TanStack-000?&logo=reactquery)
+![NG Prime](https://img.shields.io/badge/-NG%20Prime-000?&logo=primefaces)
 
 ### **IoT & Embedded**
 ![ESP32](https://img.shields.io/badge/-ESP32-000?&logo=espressif)
-![LVGL](https://img.shields.io/badge/-LVGL-000?&logo=LVGL)
+![LVGL](https://img.shields.io/badge/-LVGL-000?&logo=lvgl)
 ![MQTT](https://img.shields.io/badge/-MQTT-000?&logo=mqtt)
 
 ### **Mobile**
-![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=React)
-![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=Ionic)
-![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
-![iOS](https://img.shields.io/badge/-iOS-000?&logo=Apple)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![iOS](https://img.shields.io/badge/-iOS-000?&logo=apple)
 
 
 ✨ **Projects:**
